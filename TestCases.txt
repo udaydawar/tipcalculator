@@ -1,0 +1,21 @@
+TEST CASES FOR TIP CALCULATOR
+1.Verify that all the fields are present and text written in labels is readable
+2.Check whether bill amount is accepting the decimal value.
+3.Verify that the calculator gives the correct result in case of operations containing decimal numbers.
+4.Ensure that user is not able to input any other character instead of digit in bill,tip and people field.
+5.Ensure that any of the field can't be null.
+6.Ensure that increment and decrement button in tip field works properly.
+7.Ensure that increment and decrement button in people field works properly.
+8.Ensure proper error is displayed when user tries to decrement the value of tip and people below zero.
+9.Ensure that bill,tip and people cant have any negative value.
+10.Check whether proper error is displayed when user tries to input zero in people field.
+11.Ensure that user can input tip in only percent form.
+12.Ensure that tip and total that are shown according to each person.
+13.Verify that all the fields are present and text written in labels is readable
+14.Check if the calculator window maximizes to the specified window size.
+15.Check whether it gives correct result when user doesnt want to give any tip.
+16.Ensure that people field can never have negative value.
+17.Verify that spacing between the two fields, the input fields should not to too closely placed.
+18.Ensure that after each iteration the result of last iteration gets clear.
+19.Ensure that currency symbol is also present before the amount which is being displayed in result.
+20.Ensure that default values is displayed in every field.
